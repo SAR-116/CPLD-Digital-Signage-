@@ -5,12 +5,6 @@ A compact and low-cost **digital signage system** built using an **LP-2900 CPLD 
 
 ---
 
-## 🎥 Demo Video 
-Google Drive:  
-https://drive.google.com/drive/folders/1DNTFCHYRaVswgt7Q_mbn5U4-l31f4bF7
-
----
-
 ## ⭐ Project Features
 
 - ✔ Static messages  
